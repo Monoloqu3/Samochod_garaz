@@ -1,0 +1,14 @@
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\bin\Debug\net8.0\Projekt_NET.exe
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\bin\Debug\net8.0\Projekt_NET.deps.json
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\bin\Debug\net8.0\Projekt_NET.runtimeconfig.json
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\bin\Debug\net8.0\Projekt_NET.dll
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\bin\Debug\net8.0\Projekt_NET.pdb
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\obj\Debug\net8.0\Projekt_NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\obj\Debug\net8.0\Projekt_NET.AssemblyInfoInputs.cache
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\obj\Debug\net8.0\Projekt_NET.AssemblyInfo.cs
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\obj\Debug\net8.0\Projekt_NET.csproj.CoreCompileInputs.cache
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\obj\Debug\net8.0\Projekt_NET.dll
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\obj\Debug\net8.0\refint\Projekt_NET.dll
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\obj\Debug\net8.0\Projekt_NET.pdb
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\obj\Debug\net8.0\Projekt_NET.genruntimeconfig.cache
+C:\Users\Jarek\source\repos\Projekt_NET\Projekt_NET\obj\Debug\net8.0\ref\Projekt_NET.dll
